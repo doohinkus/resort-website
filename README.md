@@ -28,10 +28,10 @@ _If problems occur please feel free to contact us!  Ellie at elliea915@gmail.com
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{We used basic HTML to design the basic layout of our webpage, and CSS to spice it up! We tried to make it look modern and inviting with calm nature tones._
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*GPL*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_{Ellie Angell and Rafael Perez}_**
